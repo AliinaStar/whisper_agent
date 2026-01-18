@@ -1,5 +1,5 @@
-## Transcribe & Summarize Audio Files with Whisper + Groq
-Build a CLI-based pipeline that takes an audio file, transcribes it and generates a summary or key points using a language model Groq.
+## Whisper Agent
+A CLI-based pipeline that takes an audio file, transcribes it and generates a summary or key points using a language model Groq.
 
 
 ### Setup
